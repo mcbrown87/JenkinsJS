@@ -1,3 +1,4 @@
+// this is a test
 class JenkinsEndpoint {
     constructor(url) {
         this._url = url + "/api/json"
